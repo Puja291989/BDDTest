@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15497" started-at="2020-05-17T20:20:16 IST" finished-at="2020-05-17T20:20:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15497" started-at="2020-05-17T20:20:16 IST" finished-at="2020-05-17T20:20:31 IST">
+      <class name="testngpackage.testngProject">
+        <test-method status="PASS" signature="BeforeClassMethod()[pri:0, instance:testngpackage.testngProject@5a8e6209]" name="BeforeClassMethod" is-config="true" duration-ms="7920" started-at="2020-05-17T20:20:16 IST" finished-at="2020-05-17T20:20:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClassMethod -->
+        <test-method status="PASS" signature="FirstTest()[pri:0, instance:testngpackage.testngProject@5a8e6209]" name="FirstTest" duration-ms="7174" started-at="2020-05-17T20:20:23 IST" finished-at="2020-05-17T20:20:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTest -->
+        <test-method status="PASS" signature="aftertestmethod()[pri:0, instance:testngpackage.testngProject@5a8e6209]" name="aftertestmethod" is-config="true" duration-ms="346" started-at="2020-05-17T20:20:31 IST" finished-at="2020-05-17T20:20:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertestmethod -->
+      </class> <!-- testngpackage.testngProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
